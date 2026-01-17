@@ -1,1 +1,1 @@
-# magistritoo_kypsiseteated
+# A. K. Uustalu magistritöö
