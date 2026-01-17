@@ -1,0 +1,17 @@
+Sektorite viisakusvormide kogused Exceli stacked barcharti jaoks
+ 	 	distantseeriv	lähendav
+Erasektor
+	Pronoomen (teie-sina)	103	24
+	Pronoomeni algustäht (suur-väike)	17	99
+	Kõneviis (muu-tingiv)	207	12
+	Hüümärgid (ei ole-on)	214	5
+	Emotikonid/emojid (ei ole-on)	218	1
+	Palun (on-ei ole)	16	203
+
+Avalik sektor
+ 	Pronoomen (teie-sina)	16	7
+ 	Pronoomeni algustäht (suur-väike)	2	17
+ 	Kõneviis (muu-tingiv)	52	4
+ 	Hüümärgid (ei ole-on)	56	0
+ 	Emotikonid/emojid (ei ole-on)	56	0
+ 	Palun (on-ei ole)	2	54

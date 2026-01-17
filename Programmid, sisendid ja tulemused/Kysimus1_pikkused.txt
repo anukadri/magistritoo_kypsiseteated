@@ -1,0 +1,12 @@
+Kahe sektori tekstide keskmine pikkus on 353.47 ja mediaan on 263
+Kahe sektori nupp-linkide keskmine arv on 2.27 ja mediaan on 2
+
+Erasektori tekstide keskmine pikkus on 366.13 ja mediaan on 262
+Erasektori nupp-linkide keskmine arv on 2.33 ja mediaan on 2
+
+Avaliku sektori tekstide keskmine pikkus on 303.96 ja mediaan on 266.5
+Avaliku sektori nupp-linkide keskmine arv on 2.02 ja mediaan on 2.0
+
+Lühim küpsiseteade andmestikus on 30 ja pikim 2483 tähemärki pikk.
+
+Sektorite peale kokku on standardhälve 302, erasektoris 322 ja avalikus sektoris 197.

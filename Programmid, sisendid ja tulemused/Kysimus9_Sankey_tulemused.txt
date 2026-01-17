@@ -1,0 +1,64 @@
+Mõlemad sektorid kokku
+From	To	Kogus
+0 Nuppe pole	Agentsust pole	5
+1 Üks nupp	1a Lüliteid-märkeruute ei ole	55
+1 Üks nupp	1b Lülitid-märkeruudud on	2
+1a Lüliteid-märkeruute ei ole	Agentsust pole	55
+1b Lülitid-märkeruudud on	Agentsus on	6
+2 Mitu nuppu	2a Nupud on võrdselt esilduvad	26
+2 Mitu nuppu	2b Üks või mitu nuppu on teistest esilduvamad	187
+2a Nupud on võrdselt esilduvad	1b Lülitid-märkeruudud on	4
+2a Nupud on võrdselt esilduvad	2a1 Esimesel kihil pole nuppe keeldumiseks, valimiseks ega lüliteid-märkeruute	10
+2a Nupud on võrdselt esilduvad	2a2 Esimesel kihil on nupud keeldumiseks ja valmiseks	2
+2a Nupud on võrdselt esilduvad	2a3 Esimesel kihil on ainult üks kahest: nupp keeldumiseks või valimiseks	10
+2a1 Esimesel kihil pole nuppe keeldumiseks, valimiseks ega lüliteid-märkeruute	Agentsust pole	10
+2a2 Esimesel kihil on nupud keeldumiseks ja valmiseks	Agentsus on	2
+2a3 Esimesel kihil on ainult üks kahest: nupp keeldumiseks või valimiseks	Agentsus on, aga see on raskendatud	10
+2b Üks või mitu nuppu on teistest esilduvamad	2b1 Ei ole nuppe, mis laseks keelduda, ise valida või lüliteid-märkeruute	18
+2b Üks või mitu nuppu on teistest esilduvamad	2b2 Nupud, millega saab keelduda, ise valida või lülitid-märkeruudud	169
+2b1 Ei ole nuppe, mis laseks keelduda, ise valida või lüliteid-märkeruute	Agentsust pole	18
+2b2 Nupud, millega saab keelduda, ise valida või lülitid-märkeruudud	Agentsus on, aga see on raskendatud	169
+
+
+Avalik sektor
+From	To	Kogus
+0 Nuppe pole	Agentsust pole	1
+1 Üks nupp	1a Lüliteid-märkeruute ei ole	16
+1 Üks nupp	1b Lülitid-märkeruudud on	0
+1a Lüliteid-märkeruute ei ole	Agentsust pole	16
+1b Lülitid-märkeruudud on	Agentsus on	0
+2 Mitu nuppu	2a Nupud on võrdselt esilduvad	4
+2 Mitu nuppu	2b Üks või mitu nuppu on teistest esilduvamad	35
+2a Nupud on võrdselt esilduvad	1b Lülitid-märkeruudud on	0
+2a Nupud on võrdselt esilduvad	2a1 Esimesel kihil pole nuppe keeldumiseks, valimiseks ega lüliteid-märkeruute	1
+2a Nupud on võrdselt esilduvad	2a2 Esimesel kihil on nupud keeldumiseks ja valmiseks	0
+2a Nupud on võrdselt esilduvad	2a3 Esimesel kihil on ainult üks kahest: nupp keeldumiseks või valimiseks	3
+2a1 Esimesel kihil pole nuppe keeldumiseks, valimiseks ega lüliteid-märkeruute	Agentsust pole	1
+2a2 Esimesel kihil on nupud keeldumiseks ja valmiseks	Agentsus on	0
+2a3 Esimesel kihil on ainult üks kahest: nupp keeldumiseks või valimiseks	Agentsus on, aga see on raskendatud	3
+2b Üks või mitu nuppu on teistest esilduvamad	2b1 Ei ole nuppe, mis laseks keelduda, ise valida või lüliteid-märkeruute	5
+2b Üks või mitu nuppu on teistest esilduvamad	2b2 Nupud, millega saab keelduda, ise valida või lülitid-märkeruudud	30
+2b1 Ei ole nuppe, mis laseks keelduda, ise valida või lüliteid-märkeruute	Agentsust pole	5
+2b2 Nupud, millega saab keelduda, ise valida või lülitid-märkeruudud	Agentsus on, aga see on raskendatud	30
+
+
+Erasektor
+From	To	Kogus
+0 Nuppe pole	Agentsust pole	4
+1 Üks nupp	1a Lüliteid-märkeruute ei ole	39
+1 Üks nupp	1b Lülitid-märkeruudud on	2
+1a Lüliteid-märkeruute ei ole	Agentsust pole	39
+1b Lülitid-märkeruudud on	Agentsus on	6
+2 Mitu nuppu	2a Nupud on võrdselt esilduvad	22
+2 Mitu nuppu	2b Üks või mitu nuppu on teistest esilduvamad	152
+2a Nupud on võrdselt esilduvad	1b Lülitid-märkeruudud on	4
+2a Nupud on võrdselt esilduvad	2a1 Esimesel kihil pole nuppe keeldumiseks, valimiseks ega lüliteid-märkeruute	9
+2a Nupud on võrdselt esilduvad	2a2 Esimesel kihil on nupud keeldumiseks ja valmiseks	2
+2a Nupud on võrdselt esilduvad	2a3 Esimesel kihil on ainult üks kahest: nupp keeldumiseks või valimiseks	7
+2a1 Esimesel kihil pole nuppe keeldumiseks, valimiseks ega lüliteid-märkeruute	Agentsust pole	9
+2a2 Esimesel kihil on nupud keeldumiseks ja valmiseks	Agentsus on	2
+2a3 Esimesel kihil on ainult üks kahest: nupp keeldumiseks või valimiseks	Agentsus on, aga see on raskendatud	7
+2b Üks või mitu nuppu on teistest esilduvamad	2b1 Ei ole nuppe, mis laseks keelduda, ise valida või lüliteid-märkeruute	13
+2b Üks või mitu nuppu on teistest esilduvamad	2b2 Nupud, millega saab keelduda, ise valida või lülitid-märkeruudud	139
+2b1 Ei ole nuppe, mis laseks keelduda, ise valida või lüliteid-märkeruute	Agentsust pole	13
+2b2 Nupud, millega saab keelduda, ise valida või lülitid-märkeruudud	Agentsus on, aga see on raskendatud	139

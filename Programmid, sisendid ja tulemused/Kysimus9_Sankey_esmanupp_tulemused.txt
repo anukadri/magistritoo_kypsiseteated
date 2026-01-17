@@ -1,0 +1,55 @@
+Mõlemad sektorid kokku
+From	To	Kogus
+Üks esilduv nupp	1 lülitid	32
+Üks esilduv nupp	1 lüliteid pole	138
+1 lülitid	Nõustuma (1)	28
+1 lülitid	Salvesta (valikud)  (1)	4
+1 lüliteid pole	selge-aktsepteeri (1)	9
+1 lüliteid pole	Keelduma  (1)	1
+1 lüliteid pole	Muu  (1)	4
+1 lüliteid pole	Nõustuma  (1)	58
+1 lüliteid pole	Nõustuma kõigiga  (1)	66
+Mitu esilduvat	>1 Lülitid on	3
+Mitu esilduvat	>1 Lüliteid ei ole	15
+>1 Lülitid on	nõustu, keeldu ja nõustu valikutega	2
+>1 Lülitid on	nõustuma ja keelduma	1
+>1 Lüliteid ei ole	keelduma ja ok	1
+>1 Lüliteid ei ole	nõustuma ja keelduma	14
+
+
+Avalik sektor
+From	To	Kogus
+Üks esilduv nupp	1 lülitid	6
+Üks esilduv nupp	1 lüliteid pole	29
+1 lülitid	Nõustuma (1)	3
+1 lülitid	Salvesta (valikud)  (1)	3
+1 lüliteid pole	selge-aktsepteeri (1)	2
+1 lüliteid pole	Keelduma  (1)	1
+1 lüliteid pole	Muu  (1)	1
+1 lüliteid pole	Nõustuma  (1)	12
+1 lüliteid pole	Nõustuma kõigiga  (1)	13
+Mitu esilduvat	>1 Lülitid on	0
+Mitu esilduvat	>1 Lüliteid ei ole	1
+>1 Lülitid on	nõustu, keeldu ja nõustu valikutega	0
+>1 Lülitid on	nõustuma ja keelduma	0
+>1 Lüliteid ei ole	keelduma ja ok	0
+>1 Lüliteid ei ole	nõustuma ja keelduma	1
+
+
+Erasektor
+From	To	Kogus
+Üks esilduv nupp	1 lülitid	26
+Üks esilduv nupp	1 lüliteid pole	109
+1 lülitid	Nõustuma (1)	25
+1 lülitid	Salvesta (valikud)  (1)	1
+1 lüliteid pole	selge-aktsepteeri (1)	7
+1 lüliteid pole	Keelduma  (1)	0
+1 lüliteid pole	Muu  (1)	3
+1 lüliteid pole	Nõustuma  (1)	46
+1 lüliteid pole	Nõustuma kõigiga  (1)	53
+Mitu esilduvat	>1 Lülitid on	3
+Mitu esilduvat	>1 Lüliteid ei ole	14
+>1 Lülitid on	nõustu, keeldu ja nõustu valikutega	2
+>1 Lülitid on	nõustuma ja keelduma	1
+>1 Lüliteid ei ole	keelduma ja ok	1
+>1 Lüliteid ei ole	nõustuma ja keelduma	13

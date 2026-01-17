@@ -1,0 +1,276 @@
+Id kood	kategooria
+ahhaa_ktea1	arvuti suhtleb kasutajaga
+ay_ktea1	arvuti suhtleb kasutajaga
+bauhaus_ktea1	arvuti suhtleb kasutajaga
+benu_ktea1	arvuti suhtleb kasutajaga
+bg_ktea1	arvuti suhtleb kasutajaga
+bigbank_ktea1	arvuti suhtleb kasutajaga
+bon_ktea1	arvuti suhtleb kasutajaga
+boo_ktea1	arvuti suhtleb kasutajaga
+comdec_ktea1	arvuti suhtleb kasutajaga
+dd_ktea1	arvuti suhtleb kasutajaga
+dec_ktea1	arvuti suhtleb kasutajaga
+draamateater_ktea1	arvuti suhtleb kasutajaga
+ebh_ktea1	arvuti suhtleb kasutajaga
+eepank_ktea1	arvuti suhtleb kasutajaga
+ehe_ktea1	arvuti suhtleb kasutajaga
+emm_ktea2	arvuti suhtleb kasutajaga
+expa_ktea1	arvuti suhtleb kasutajaga
+glami_ktea1	arvuti suhtleb kasutajaga
+hestia_ktea1	arvuti suhtleb kasutajaga
+hiiu_ktea1	arvuti suhtleb kasutajaga
+idla_ktea1	arvuti suhtleb kasutajaga
+itk_ktea1	arvuti suhtleb kasutajaga
+kako_ktea1	arvuti suhtleb kasutajaga
+kaup_ktea1	arvuti suhtleb kasutajaga
+kingitus_ktea1	arvuti suhtleb kasutajaga
+ks_ktea1	arvuti suhtleb kasutajaga
+lem_ktea1	arvuti suhtleb kasutajaga
+levi_ktea1	arvuti suhtleb kasutajaga
+lidl_ktea1	arvuti suhtleb kasutajaga
+lp_ktea1	arvuti suhtleb kasutajaga
+lum_ktea1	arvuti suhtleb kasutajaga
+maaelumuuseumid_ktea1	arvuti suhtleb kasutajaga
+macta_ktea1	arvuti suhtleb kasutajaga
+mag_ktea1	arvuti suhtleb kasutajaga
+mh_ktea1	arvuti suhtleb kasutajaga
+mith_ktea1	arvuti suhtleb kasutajaga
+on_ktea1	arvuti suhtleb kasutajaga
+ood_ktea1	arvuti suhtleb kasutajaga
+oom_ktea1	arvuti suhtleb kasutajaga
+pajo_ktea1	arvuti suhtleb kasutajaga
+pegasus_ktea1	arvuti suhtleb kasutajaga
+prisma_ktea3	arvuti suhtleb kasutajaga
+proto_ktea1	arvuti suhtleb kasutajaga
+puhh_ktea1	arvuti suhtleb kasutajaga
+raamat_ktea1	arvuti suhtleb kasutajaga
+rimi_ktea1	arvuti suhtleb kasutajaga
+rrkirj_ktea1	arvuti suhtleb kasutajaga
+soulz_ktea1	arvuti suhtleb kasutajaga
+str_ktea1	arvuti suhtleb kasutajaga
+sula_ktea1	arvuti suhtleb kasutajaga
+tee_ktea1	arvuti suhtleb kasutajaga
+tool_ktea1	arvuti suhtleb kasutajaga
+ttm_ktea1	arvuti suhtleb kasutajaga
+wm_ktea1	arvuti suhtleb kasutajaga
+yaga_ktea1	arvuti suhtleb kasutajaga
+alexela_ktea1	kasutaja suhtleb arvutiga
+almpood_ktea1	kasutaja suhtleb arvutiga
+apollo_ktea1	kasutaja suhtleb arvutiga
+apotheka_ktea1	kasutaja suhtleb arvutiga
+aqva_ktea1	kasutaja suhtleb arvutiga
+aren_ktea1	kasutaja suhtleb arvutiga
+argo_ktea1	kasutaja suhtleb arvutiga
+ars_ktea1	kasutaja suhtleb arvutiga
+atlex_ktea1	kasutaja suhtleb arvutiga
+aulu_ktea1	kasutaja suhtleb arvutiga
+best_ktea1	kasutaja suhtleb arvutiga
+blu_ktea1	kasutaja suhtleb arvutiga
+clue_ktea1	kasutaja suhtleb arvutiga
+dk_ktea1	kasutaja suhtleb arvutiga
+dt_ktea1	kasutaja suhtleb arvutiga
+eans_ktea2	kasutaja suhtleb arvutiga
+ebs_ktea1	kasutaja suhtleb arvutiga
+edu_ktea1	kasutaja suhtleb arvutiga
+ej_ktea1	kasutaja suhtleb arvutiga
+elisa_ktea1	kasutaja suhtleb arvutiga
+emta_ktea1	kasutaja suhtleb arvutiga
+enef_ktea1	kasutaja suhtleb arvutiga
+etm_ktea1	kasutaja suhtleb arvutiga
+eur_ktea1	kasutaja suhtleb arvutiga
+evg_ktea1	kasutaja suhtleb arvutiga
+evm_ktea1	kasutaja suhtleb arvutiga
+fc_ktea1	kasutaja suhtleb arvutiga
+feiss_ktea1	kasutaja suhtleb arvutiga
+fi_ktea1	kasutaja suhtleb arvutiga
+fw_ktea1	kasutaja suhtleb arvutiga
+gem_ktea1	kasutaja suhtleb arvutiga
+hopp_ktea1	kasutaja suhtleb arvutiga
+htrk_ktea1	kasutaja suhtleb arvutiga
+iizi_ktea1	kasutaja suhtleb arvutiga
+ing_ktea1	kasutaja suhtleb arvutiga
+intar_ktea1	kasutaja suhtleb arvutiga
+jazz_ktea1	kasutaja suhtleb arvutiga
+joek_ktea1	kasutaja suhtleb arvutiga
+jõhvigüm_ktea1	kasutaja suhtleb arvutiga
+kb_ktea1	kasutaja suhtleb arvutiga
+keer_ktea1	kasutaja suhtleb arvutiga
+kemit_ktea1	kasutaja suhtleb arvutiga
+kingiabi_ktea1	kasutaja suhtleb arvutiga
+kiva_ktea1	kasutaja suhtleb arvutiga
+koduek_ktea1	kasutaja suhtleb arvutiga
+kodukesk_ktea1	kasutaja suhtleb arvutiga
+kuram_ktea1	kasutaja suhtleb arvutiga
+kutsekoda_ktea1	kasutaja suhtleb arvutiga
+lashai_ktea1	kasutaja suhtleb arvutiga
+laua_ktea1	kasutaja suhtleb arvutiga
+lk_ktea1	kasutaja suhtleb arvutiga
+loodus_ktea1	kasutaja suhtleb arvutiga
+medicum_ktea1	kasutaja suhtleb arvutiga
+mem_ktea1	kasutaja suhtleb arvutiga
+mh_ktea2	kasutaja suhtleb arvutiga
+mil_ktea1	kasutaja suhtleb arvutiga
+minhär_ktea1	kasutaja suhtleb arvutiga
+mk_ktea1	kasutaja suhtleb arvutiga
+mr_ktea1	kasutaja suhtleb arvutiga
+msd_ktea1	kasutaja suhtleb arvutiga
+mspa_ktea1	kasutaja suhtleb arvutiga
+mts_ktea1	kasutaja suhtleb arvutiga
+muus_ktea1	kasutaja suhtleb arvutiga
+mybreden_ktea1	kasutaja suhtleb arvutiga
+nk_ktea1	kasutaja suhtleb arvutiga
+olk_ktea1	kasutaja suhtleb arvutiga
+osta_ktea1	kasutaja suhtleb arvutiga
+paar_ktea1	kasutaja suhtleb arvutiga
+parhai_ktea1	kasutaja suhtleb arvutiga
+raadi_ktea1	kasutaja suhtleb arvutiga
+reede_ktea1	kasutaja suhtleb arvutiga
+rk_ktea1	kasutaja suhtleb arvutiga
+rosen_ktea1	kasutaja suhtleb arvutiga
+rw_ktea1	kasutaja suhtleb arvutiga
+sagadi_ktea1	kasutaja suhtleb arvutiga
+sh_ktea1	kasutaja suhtleb arvutiga
+sl_ktea1	kasutaja suhtleb arvutiga
+smart_ktea1	kasutaja suhtleb arvutiga
+snug_ktea1	kasutaja suhtleb arvutiga
+soidu_ktea1	kasutaja suhtleb arvutiga
+spae_ktea1	kasutaja suhtleb arvutiga
+zara_ktea1	kasutaja suhtleb arvutiga
+zoo_ktea1	kasutaja suhtleb arvutiga
+taltech_ktea1	kasutaja suhtleb arvutiga
+tateko_ktea1	kasutaja suhtleb arvutiga
+tdh_ktea1	kasutaja suhtleb arvutiga
+tlu_ktea1	kasutaja suhtleb arvutiga
+tnmn_ktea1	kasutaja suhtleb arvutiga
+toila_ktea1	kasutaja suhtleb arvutiga
+tol_ktea1	kasutaja suhtleb arvutiga
+tootuk_ktea1	kasutaja suhtleb arvutiga
+tradeh_ktea1	kasutaja suhtleb arvutiga
+tthk_ktea1	kasutaja suhtleb arvutiga
+varska_ktea1	kasutaja suhtleb arvutiga
+vene_ktea1	kasutaja suhtleb arvutiga
+wknd_ktea1	kasutaja suhtleb arvutiga
+vspa_ktea1	kasutaja suhtleb arvutiga
+ad_ktea1	kasutaja suhtleb arvutiga
+lauam_ktea1	kasutaja suhtleb arvutiga
+prisma_ktea6	kasutaja suhtleb arvutiga
+aatrium_ktea1	kaks varianti läbisegi
+ap_ktea1	kaks varianti läbisegi
+apollo_ktea2	kaks varianti läbisegi
+autok_ktea1	kaks varianti läbisegi
+avita_ktea1	kaks varianti läbisegi
+bauhof_ktea1	kaks varianti läbisegi
+bm_ktea1	kaks varianti läbisegi
+bpx_ktea1	kaks varianti läbisegi
+braavo_ktea1	kaks varianti läbisegi
+c4u_ktea1	kaks varianti läbisegi
+circlek_ktea1	kaks varianti läbisegi
+city24_ktea1	kaks varianti läbisegi
+cm_ktea1	kaks varianti läbisegi
+copank_ktea1	kaks varianti läbisegi
+depod_ktea1	kaks varianti läbisegi
+dion_ktea1	kaks varianti läbisegi
+eans_ktea1	kaks varianti läbisegi
+eco_ktea1	kaks varianti läbisegi
+eek_ktea1	kaks varianti läbisegi
+eestiloto_ktea1	kaks varianti läbisegi
+elektrum_ktea1	kaks varianti läbisegi
+elhai_ktea1	kaks varianti läbisegi
+elo_ktea1	kaks varianti läbisegi
+elron_ktea1	kaks varianti läbisegi
+endla_ktea1	kaks varianti läbisegi
+estdev_ktea1	kaks varianti läbisegi
+fb_ktea1	kaks varianti läbisegi
+fel_ktea1	kaks varianti läbisegi
+fertilitas_ktea1	kaks varianti läbisegi
+fit_ktea1	kaks varianti läbisegi
+gal_ktea1	kaks varianti läbisegi
+gr_ktea1	kaks varianti läbisegi
+hc_ktea1	kaks varianti läbisegi
+idk_ktea1	kaks varianti läbisegi
+ikea_ktea1	kaks varianti läbisegi
+ilv_ktea1	kaks varianti läbisegi
+imag_ktea1	kaks varianti läbisegi
+ipharma_ktea1	kaks varianti läbisegi
+jan_ktea1	kaks varianti läbisegi
+johan_ktea1	kaks varianti läbisegi
+kalevk_ktea1	kaks varianti läbisegi
+kalevs_ktea1	kaks varianti läbisegi
+kl_ktea1	kaks varianti läbisegi
+km_ktea1	kaks varianti läbisegi
+km_ktea2	kaks varianti läbisegi
+km_ktea3	kaks varianti läbisegi
+konv_ktea1	kaks varianti läbisegi
+koo_ktea1	kaks varianti läbisegi
+kp_ktea1	kaks varianti läbisegi
+kra_ktea1	kaks varianti läbisegi
+kumu_ktea1	kaks varianti läbisegi
+lelud_ktea1	kaks varianti läbisegi
+lm_ktea1	kaks varianti läbisegi
+lumi_ktea1	kaks varianti läbisegi
+lyd_ktea1	kaks varianti läbisegi
+matk_ktea1	kaks varianti läbisegi
+maut_ktea1	kaks varianti läbisegi
+meri_ktea1	kaks varianti läbisegi
+mkesk_ktea1	kaks varianti läbisegi
+moobel_ktea1	kaks varianti läbisegi
+moto_ktea1	kaks varianti läbisegi
+myfit_ktea1	kaks varianti läbisegi
+omaking_ktea1	kaks varianti läbisegi
+omniva_ktea1	kaks varianti läbisegi
+opt_ktea1	kaks varianti läbisegi
+pad_ktea1	kaks varianti läbisegi
+padaste_ktea1	kaks varianti läbisegi
+phil_ktea1	kaks varianti läbisegi
+pmk_ktea1	kaks varianti läbisegi
+prisma_ktea1	kaks varianti läbisegi
+prisma_ktea4	kaks varianti läbisegi
+proto_ktea2	kaks varianti läbisegi
+psp_ktea1	kaks varianti läbisegi
+puhka_ktea1	kaks varianti läbisegi
+reva_ktea1	kaks varianti läbisegi
+room_ktea1	kaks varianti läbisegi
+saka_ktea1	kaks varianti läbisegi
+selver_ktea1	kaks varianti läbisegi
+sid_ktea1	kaks varianti läbisegi
+sys_ktea1	kaks varianti läbisegi
+zal_ktea1	kaks varianti läbisegi
+zeb_ktea1	kaks varianti läbisegi
+teo_ktea1	kaks varianti läbisegi
+tlh_ktea1	kaks varianti läbisegi
+vabamu_ktea1	kaks varianti läbisegi
+var_ktea1	kaks varianti läbisegi
+viispa_ktea1	kaks varianti läbisegi
+vmm_ktea1	kaks varianti läbisegi
+vtrt_ktea1	kaks varianti läbisegi
+xs_ktea1	kaks varianti läbisegi
+eam_ktea1	Saab mõlemat pidi tõlgendada
+etdm_ktea1	Saab mõlemat pidi tõlgendada
+rji_ktea1	Saab mõlemat pidi tõlgendada
+antl_ktea1	Ebareeglipärased
+depo_ktea1	Ebareeglipärased
+luki_ktea1	Ebareeglipärased
+mc_ktea1	Ebareeglipärased
+ntr_ktea1	Ebareeglipärased
+vtll_ktea1	Ebareeglipärased
+eant_ktea1	Jääb vahele: NP või MUU
+emm_ktea1	Jääb vahele: NP või MUU
+eramets_ktea1	Jääb vahele: NP või MUU
+etag_ktea1	Jääb vahele: NP või MUU
+imag_ktea2	Jääb vahele: NP või MUU
+jan_ktea2	Jääb vahele: NP või MUU
+pk_ktea1	Jääb vahele: NP või MUU
+pmv_ktea1	Jääb vahele: NP või MUU
+polvhai_ktea1	Jääb vahele: NP või MUU
+proto_ktea3	Jääb vahele: NP või MUU
+res_ktea1	Jääb vahele: NP või MUU
+say_ktea1	Jääb vahele: NP või MUU
+woole_ktea1	Jääb vahele: NP või MUU
+petcity_ktea1	Jääb vahele: NP või MUU
+ahhaa_booking_ktea1	Jääb vahele: nuppe pole
+epp_ktea1	Jääb vahele: nuppe pole
+fertilitas_ktea_2	Jääb vahele: nuppe pole
+now_tervik_ktea1	Jääb vahele: nuppe pole
+seto_tervik_ktea1	Jääb vahele: nuppe pole
+asa_ktea1	Jääb vahele: sisutekst on kahest küljest
+tktk_ktea1	Jääb vahele: sisutekst on kahest küljest

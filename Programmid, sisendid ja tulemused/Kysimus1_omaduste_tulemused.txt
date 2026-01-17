@@ -1,0 +1,127 @@
+Sõnastiku järjendid on järjekorras: pealkiri, lülitid-märkeruudud, nupud, lingid, nupp-lingi vahepealsed
+
+MÕLEMAD SEKTORID KOKKU
+
+Kokku on tekste 275
+
+Erinevaid küpisiseteate malle on 18
+Siin on kõik erinevad küpsiseteadete mallid koos nendesse mallidesse kuuluvad teadete arvuga
+('ei', 'ei', 'ei', 'ei', 'ei')	1
+('ei', 'ei', 'ei', 'jah', 'ei')	4
+('ei', 'ei', 'ei', 'jah', 'jah')	2
+('ei', 'ei', 'jah', 'ei', 'ei')	41
+('ei', 'ei', 'jah', 'ei', 'jah')	14
+('ei', 'ei', 'jah', 'jah', 'ei')	50
+('ei', 'ei', 'jah', 'jah', 'jah')	11
+('ei', 'jah', 'jah', 'ei', 'jah')	4
+('ei', 'jah', 'jah', 'jah', 'ei')	3
+('ei', 'jah', 'jah', 'jah', 'jah')	2
+('jah', 'ei', 'jah', 'ei', 'ei')	37
+('jah', 'ei', 'jah', 'ei', 'jah')	15
+('jah', 'ei', 'jah', 'jah', 'ei')	46
+('jah', 'ei', 'jah', 'jah', 'jah')	13
+('jah', 'jah', 'jah', 'ei', 'ei')	6
+('jah', 'jah', 'jah', 'ei', 'jah')	11
+('jah', 'jah', 'jah', 'jah', 'ei')	2
+('jah', 'jah', 'jah', 'jah', 'jah')	13
+
+Siin on kõik erinevad küpsiseteadete mallid koos pisiteksti id-ga
+('jah', 'jah', 'jah', 'ei', 'jah')	['aatrium_ktea1_tervik', 'bauhof_ktea1_tervik', 'circlek_ktea1_tervik', 'gr_ktea1_tervik', 'idk_ktea1_tervik', 'ipharma_ktea1_tervik', 'km_ktea1_tervik', 'prisma_ktea1_tervik', 'saka_ktea1_tervik', 'selver_ktea1_tervik', 'vtll_ktea1_tervik']
+('ei', 'ei', 'ei', 'jah', 'jah')	['ad_ktea1_tervik', 'prisma_ktea6_tervik']
+('ei', 'ei', 'ei', 'ei', 'ei')	['ahhaa_booking_tervik_ktea1']
+('jah', 'ei', 'jah', 'ei', 'ei')	['ahhaa_ktea1_tervik', 'apollo_ktea1_tervik', 'avita_ktea1_tervik', 'elo_ktea1_tervik', 'eramets_ktea1_tervik', 'estdev_ktea1_tervik', 'fel_ktea1_tervik', 'fertilitas_ktea1_tervik', 'fit_ktea1_tervik', 'gal_ktea1_tervik', 'hiiu_ktea1_tervik', 'jan_ktea1_tervik', 'kemit_ktea1_tervik', 'lelud_ktea1_tervik', 'lk_ktea1_tervik', 'lm_ktea1_tervik', 'loodus_ktea1_tervik', 'maut_ktea1_tervik', 'medicum_ktea1_tervik', 'minhär_ktea1_tervik', 'moto_ktea1_tervik', 'mspa_ktea1_tervik', 'omaking_ktea1_tervik', 'oom_ktea1_tervik', 'padaste_ktea1_tervik', 'pajo_ktea1_tervik', 'puhka_ktea1_tervik', 'raamat_ktea1_tervik', 'rrkirj_ktea1_tervik', 'zeb_ktea1_tervik', 'tlh_ktea1_tervik', 'tlu_ktea1_tervik', 'tnmn_ktea1_tervik', 'viispa_ktea1_tervik', 'vspa_ktea1_tervik', 'vtrt_ktea1_tervik', 'yaga_ktea1_tervik']
+('ei', 'ei', 'jah', 'ei', 'jah')	['alexela_ktea1_tervik', 'blu_ktea1_tervik', 'depod_ktea1_tervik', 'elisa_ktea1_tervik', 'enef_ktea1_tervik', 'hc_ktea1_tervik', 'idla_ktea1_tervik', 'jazz_ktea1_tervik', 'jõhvigüm_ktea1_tervik', 'ood_ktea1_tervik', 'rw_ktea1_tervik', 'sh_ktea1_tervik', 'str_ktea1_tervik', 'taltech_ktea1_tervik']
+('ei', 'ei', 'jah', 'ei', 'ei')	['almpood_ktea1_tervik', 'ars_ktea1_tervik', 'aulu_ktea1_tervik', 'bon_ktea1_tervik', 'bpx_ktea1_tervik', 'dk_ktea1_tervik', 'draamateater_ktea1_tervik', 'dt_ktea1_tervik', 'evg_ktea1_tervik', 'fw_ktea1_tervik', 'htrk_ktea1_tervik', 'imag_ktea2_tervik', 'ing_ktea1_tervik', 'intar_ktea1_tervik', 'keer_ktea1_tervik', 'kingiabi_ktea1_tervik', 'kingitus_ktea1_tervik', 'kp_ktea1_tervik', 'kuram_ktea1_tervik', 'kutsekoda_ktea1_tervik', 'laua_ktea1_tervik', 'mk_ktea1_tervik', 'nk_ktea1_tervik', 'paar_ktea1_tervik', 'pk_ktea1_tervik', 'pmv_ktea1_tervik', 'polvhai_ktea1_tervik', 'proto_ktea3_tervik', 'rji_ktea1_tervik', 'rk_ktea1_tervik', 'soidu_ktea1_tervik', 'spae_ktea1_tervik', 'tdh_ktea1_tervik', 'tee_ktea1_tervik', 'toila_ktea1_tervik', 'tootuk_ktea1_tervik', 'ttm_ktea1_tervik', 'varska_ktea1_tervik', 'wm_ktea1_tervik', 'vmm_ktea1_tervik', 'woole_ktea1_tervik']
+('ei', 'ei', 'jah', 'jah', 'ei')	['antl_ktea1_tervik', 'aqva_ktea1_tervik', 'aren_ktea1_tervik', 'argo_ktea1_tervik', 'atlex_ktea1_tervik', 'best_ktea1_tervik', 'bg_ktea1_tervik', 'clue_ktea1_tervik', 'dd_ktea1_tervik', 'dec_ktea1_tervik', 'eam_ktea1_tervik', 'eans_ktea2_tervik', 'eant_ktea1_tervik', 'edu_ktea1_tervik', 'eepank_ktea1_tervik', 'emta_ktea1_tervik', 'etag_ktea1_tervik', 'etdm_ktea1_tervik', 'etm_ktea1_tervik', 'evm_ktea1_tervik', 'fb_ktea1_tervik', 'fi_ktea1_tervik', 'hopp_ktea1_tervik', 'ilv_ktea1_tervik', 'jan_ktea2_tervik', 'joek_ktea1_tervik', 'kako_ktea1_tervik', 'kaup_ktea1_tervik', 'kiva_ktea1_tervik', 'lauam_ktea1_tervik', 'mag_ktea1_tervik', 'mh_ktea2_tervik', 'mil_ktea1_tervik', 'mkesk_ktea1_tervik', 'mts_ktea1_tervik', 'muus_ktea1_tervik', 'mybreden_ktea1_tervik', 'parhai_ktea1_tervik', 'proto_ktea1_tervik', 'puhh_ktea1_tervik', 'raadi_ktea1_tervik', 'reede_ktea1_tervik', 'rosen_ktea1_tervik', 'sagadi_ktea1_tervik', 'smart_ktea1_tervik', 'snug_ktea1_tervik', 'zara_ktea1_tervik', 'zoo_ktea1_tervik', 'tateko_ktea1_tervik', 'tol_ktea1_tervik']
+('jah', 'ei', 'jah', 'jah', 'ei')	['ap_ktea1_tervik', 'apollo_ktea2_tervik', 'apotheka_ktea1_tervik', 'asa_ktea1_tervik', 'autok_ktea1_tervik', 'bigbank_ktea1_tervik', 'braavo_ktea1_tervik', 'cm_ktea1_tervik', 'copank_ktea1_tervik', 'eestiloto_ktea1_tervik', 'ehe_ktea1_tervik', 'elhai_ktea1_tervik', 'endla_ktea1_tervik', 'feiss_ktea1_tervik', 'johan_ktea1_tervik', 'kb_ktea1_tervik', 'kl_ktea1_tervik', 'koduek_ktea1_tervik', 'kodukesk_ktea1_tervik', 'kra_ktea1_tervik', 'ks_ktea1_tervik', 'kumu_ktea1_tervik', 'levi_ktea1_tervik', 'lidl_ktea1_tervik', 'lp_ktea1_tervik', 'lum_ktea1_tervik', 'lumi_ktea1_tervik', 'maaelumuuseumid_ktea1_tervik', 'meri_ktea1_tervik', 'mh_ktea1_tervik', 'mr_ktea1_tervik', 'msd_ktea1_tervik', 'ntr_ktea1_tervik', 'olk_ktea1_tervik', 'osta_ktea1_tervik', 'pad_ktea1_tervik', 'petcity_ktea1_tervik', 'prisma_ktea4_tervik', 'res_ktea1_tervik', 'rimi_ktea1_tervik', 'say_ktea1_tervik', 'sl_ktea1_tervik', 'tktk_ktea1_tervik', 'tool_ktea1_tervik', 'vabamu_ktea1_tervik', 'xs_ktea1_tervik']
+('jah', 'ei', 'jah', 'jah', 'jah')	['ay_ktea1_tervik', 'benu_ktea1_tervik', 'city24_ktea1_tervik', 'comdec_ktea1_tervik', 'iizi_ktea1_tervik', 'imag_ktea1_tervik', 'konv_ktea1_tervik', 'lem_ktea1_tervik', 'luki_ktea1_tervik', 'mc_ktea1_tervik', 'reva_ktea1_tervik', 'sula_ktea1_tervik', 'zal_ktea1_tervik']
+('jah', 'ei', 'jah', 'ei', 'jah')	['bauhaus_ktea1_tervik', 'c4u_ktea1_tervik', 'dion_ktea1_tervik', 'eur_ktea1_tervik', 'glami_ktea1_tervik', 'km_ktea2_tervik', 'macta_ktea1_tervik', 'moobel_ktea1_tervik', 'omniva_ktea1_tervik', 'on_ktea1_tervik', 'phil_ktea1_tervik', 'prisma_ktea3_tervik', 'psp_ktea1_tervik', 'room_ktea1_tervik', 'sid_ktea1_tervik']
+('jah', 'jah', 'jah', 'jah', 'jah')	['bm_ktea1_tervik', 'eco_ktea1_tervik', 'eek_ktea1_tervik', 'ikea_ktea1_tervik', 'kalevk_ktea1_tervik', 'kalevs_ktea1_tervik', 'koo_ktea1_tervik', 'lyd_ktea1_tervik', 'myfit_ktea1_tervik', 'opt_ktea1_tervik', 'sys_ktea1_tervik', 'teo_ktea1_tervik', 'vene_ktea1_tervik']
+('jah', 'jah', 'jah', 'jah', 'ei')	['boo_ktea1_tervik', 'elektrum_ktea1_tervik']
+('ei', 'jah', 'jah', 'jah', 'jah')	['depo_ktea1_tervik', 'pmk_ktea1_tervik']
+('ei', 'ei', 'jah', 'jah', 'jah')	['eans_ktea1_tervik', 'ej_ktea1_tervik', 'expa_ktea1_tervik', 'fc_ktea1_tervik', 'lashai_ktea1_tervik', 'matk_ktea1_tervik', 'mem_ktea1_tervik', 'proto_ktea2_tervik', 'tradeh_ktea1_tervik', 'tthk_ktea1_tervik', 'wknd_ktea1_tervik']
+('jah', 'jah', 'jah', 'ei', 'ei')	['ebh_ktea1_tervik', 'gem_ktea1_tervik', 'itk_ktea1_tervik', 'mith_ktea1_tervik', 'pegasus_ktea1_tervik', 'soulz_ktea1_tervik']
+('ei', 'jah', 'jah', 'jah', 'ei')	['ebs_ktea1_tervik', 'hestia_ktea1_tervik', 'km_ktea3_tervik']
+('ei', 'jah', 'jah', 'ei', 'jah')	['elron_ktea1_tervik', 'emm_ktea1_tervik', 'emm_ktea2_tervik', 'var_ktea1_tervik']
+('ei', 'ei', 'ei', 'jah', 'ei')	['epp_tervik_ktea1', 'fertilitas_tervik_ktea_2', 'now_tervik_ktea1', 'seto_tervik_ktea1']
+
+ERASEKTOR
+
+Kokku on erasektori tekste 219
+
+Erinevaid erasektori küpisiseteate malle on 17
+Siin on kõik erinevad erasektori küpsiseteadete mallid koos nendesse mallidesse kuuluvad teadete arvuga
+('ei', 'ei', 'ei', 'jah', 'ei')	4	1.8 %
+('ei', 'ei', 'ei', 'jah', 'jah')	2	0.9 %
+('ei', 'ei', 'jah', 'ei', 'ei')	32	14.6 %
+('ei', 'ei', 'jah', 'ei', 'jah')	11	5.0 %
+('ei', 'ei', 'jah', 'jah', 'ei')	35	16.0 %
+('ei', 'ei', 'jah', 'jah', 'jah')	7	3.2 %
+('ei', 'jah', 'jah', 'ei', 'jah')	1	0.5 %
+('ei', 'jah', 'jah', 'jah', 'ei')	3	1.4 %
+('ei', 'jah', 'jah', 'jah', 'jah')	2	0.9 %
+('jah', 'ei', 'jah', 'ei', 'ei')	26	11.9 %
+('jah', 'ei', 'jah', 'ei', 'jah')	15	6.8 %
+('jah', 'ei', 'jah', 'jah', 'ei')	39	17.8 %
+('jah', 'ei', 'jah', 'jah', 'jah')	13	5.9 %
+('jah', 'jah', 'jah', 'ei', 'ei')	5	2.3 %
+('jah', 'jah', 'jah', 'ei', 'jah')	10	4.6 %
+('jah', 'jah', 'jah', 'jah', 'ei')	2	0.9 %
+('jah', 'jah', 'jah', 'jah', 'jah')	12	5.5 %
+
+Siin on kõik erinevad erasektori küpsiseteadete mallid koos pisiteksti id-ga
+('jah', 'jah', 'jah', 'ei', 'jah')	['aatrium_ktea1_tervik', 'bauhof_ktea1_tervik', 'circlek_ktea1_tervik', 'gr_ktea1_tervik', 'idk_ktea1_tervik', 'ipharma_ktea1_tervik', 'km_ktea1_tervik', 'prisma_ktea1_tervik', 'saka_ktea1_tervik', 'selver_ktea1_tervik']
+('ei', 'ei', 'ei', 'jah', 'jah')	['ad_ktea1_tervik', 'prisma_ktea6_tervik']
+('ei', 'ei', 'jah', 'ei', 'jah')	['alexela_ktea1_tervik', 'blu_ktea1_tervik', 'depod_ktea1_tervik', 'elisa_ktea1_tervik', 'hc_ktea1_tervik', 'idla_ktea1_tervik', 'jazz_ktea1_tervik', 'ood_ktea1_tervik', 'rw_ktea1_tervik', 'sh_ktea1_tervik', 'str_ktea1_tervik']
+('ei', 'ei', 'jah', 'jah', 'ei')	['antl_ktea1_tervik', 'aqva_ktea1_tervik', 'aren_ktea1_tervik', 'argo_ktea1_tervik', 'atlex_ktea1_tervik', 'best_ktea1_tervik', 'bg_ktea1_tervik', 'clue_ktea1_tervik', 'dd_ktea1_tervik', 'dec_ktea1_tervik', 'eant_ktea1_tervik', 'fb_ktea1_tervik', 'hopp_ktea1_tervik', 'ilv_ktea1_tervik', 'jan_ktea2_tervik', 'joek_ktea1_tervik', 'kako_ktea1_tervik', 'kaup_ktea1_tervik', 'kiva_ktea1_tervik', 'lauam_ktea1_tervik', 'mag_ktea1_tervik', 'mh_ktea2_tervik', 'mil_ktea1_tervik', 'mkesk_ktea1_tervik', 'mts_ktea1_tervik', 'mybreden_ktea1_tervik', 'puhh_ktea1_tervik', 'raadi_ktea1_tervik', 'reede_ktea1_tervik', 'rosen_ktea1_tervik', 'sagadi_ktea1_tervik', 'smart_ktea1_tervik', 'snug_ktea1_tervik', 'zara_ktea1_tervik', 'tol_ktea1_tervik']
+('jah', 'ei', 'jah', 'jah', 'ei')	['ap_ktea1_tervik', 'apollo_ktea2_tervik', 'apotheka_ktea1_tervik', 'asa_ktea1_tervik', 'autok_ktea1_tervik', 'bigbank_ktea1_tervik', 'braavo_ktea1_tervik', 'cm_ktea1_tervik', 'copank_ktea1_tervik', 'ehe_ktea1_tervik', 'feiss_ktea1_tervik', 'johan_ktea1_tervik', 'kb_ktea1_tervik', 'kl_ktea1_tervik', 'koduek_ktea1_tervik', 'kodukesk_ktea1_tervik', 'kra_ktea1_tervik', 'ks_ktea1_tervik', 'levi_ktea1_tervik', 'lidl_ktea1_tervik', 'lp_ktea1_tervik', 'lum_ktea1_tervik', 'lumi_ktea1_tervik', 'meri_ktea1_tervik', 'mh_ktea1_tervik', 'mr_ktea1_tervik', 'msd_ktea1_tervik', 'ntr_ktea1_tervik', 'olk_ktea1_tervik', 'osta_ktea1_tervik', 'pad_ktea1_tervik', 'petcity_ktea1_tervik', 'prisma_ktea4_tervik', 'res_ktea1_tervik', 'rimi_ktea1_tervik', 'say_ktea1_tervik', 'sl_ktea1_tervik', 'tool_ktea1_tervik', 'xs_ktea1_tervik']
+('jah', 'ei', 'jah', 'ei', 'ei')	['apollo_ktea1_tervik', 'avita_ktea1_tervik', 'elo_ktea1_tervik', 'fel_ktea1_tervik', 'fertilitas_ktea1_tervik', 'fit_ktea1_tervik', 'gal_ktea1_tervik', 'jan_ktea1_tervik', 'lelud_ktea1_tervik', 'lm_ktea1_tervik', 'maut_ktea1_tervik', 'medicum_ktea1_tervik', 'moto_ktea1_tervik', 'mspa_ktea1_tervik', 'omaking_ktea1_tervik', 'oom_ktea1_tervik', 'padaste_ktea1_tervik', 'pajo_ktea1_tervik', 'raamat_ktea1_tervik', 'rrkirj_ktea1_tervik', 'zeb_ktea1_tervik', 'tlh_ktea1_tervik', 'tnmn_ktea1_tervik', 'viispa_ktea1_tervik', 'vspa_ktea1_tervik', 'yaga_ktea1_tervik']
+('ei', 'ei', 'jah', 'ei', 'ei')	['aulu_ktea1_tervik', 'bon_ktea1_tervik', 'bpx_ktea1_tervik', 'dk_ktea1_tervik', 'dt_ktea1_tervik', 'evg_ktea1_tervik', 'fw_ktea1_tervik', 'htrk_ktea1_tervik', 'imag_ktea2_tervik', 'ing_ktea1_tervik', 'intar_ktea1_tervik', 'keer_ktea1_tervik', 'kingiabi_ktea1_tervik', 'kingitus_ktea1_tervik', 'kp_ktea1_tervik', 'laua_ktea1_tervik', 'mk_ktea1_tervik', 'nk_ktea1_tervik', 'paar_ktea1_tervik', 'pk_ktea1_tervik', 'pmv_ktea1_tervik', 'rji_ktea1_tervik', 'rk_ktea1_tervik', 'soidu_ktea1_tervik', 'spae_ktea1_tervik', 'tdh_ktea1_tervik', 'tee_ktea1_tervik', 'toila_ktea1_tervik', 'ttm_ktea1_tervik', 'varska_ktea1_tervik', 'wm_ktea1_tervik', 'woole_ktea1_tervik']
+('jah', 'ei', 'jah', 'jah', 'jah')	['ay_ktea1_tervik', 'benu_ktea1_tervik', 'city24_ktea1_tervik', 'comdec_ktea1_tervik', 'iizi_ktea1_tervik', 'imag_ktea1_tervik', 'konv_ktea1_tervik', 'lem_ktea1_tervik', 'luki_ktea1_tervik', 'mc_ktea1_tervik', 'reva_ktea1_tervik', 'sula_ktea1_tervik', 'zal_ktea1_tervik']
+('jah', 'ei', 'jah', 'ei', 'jah')	['bauhaus_ktea1_tervik', 'c4u_ktea1_tervik', 'dion_ktea1_tervik', 'eur_ktea1_tervik', 'glami_ktea1_tervik', 'km_ktea2_tervik', 'macta_ktea1_tervik', 'moobel_ktea1_tervik', 'omniva_ktea1_tervik', 'on_ktea1_tervik', 'phil_ktea1_tervik', 'prisma_ktea3_tervik', 'psp_ktea1_tervik', 'room_ktea1_tervik', 'sid_ktea1_tervik']
+('jah', 'jah', 'jah', 'jah', 'jah')	['bm_ktea1_tervik', 'eco_ktea1_tervik', 'eek_ktea1_tervik', 'ikea_ktea1_tervik', 'kalevk_ktea1_tervik', 'kalevs_ktea1_tervik', 'koo_ktea1_tervik', 'lyd_ktea1_tervik', 'myfit_ktea1_tervik', 'opt_ktea1_tervik', 'sys_ktea1_tervik', 'teo_ktea1_tervik']
+('jah', 'jah', 'jah', 'jah', 'ei')	['boo_ktea1_tervik', 'elektrum_ktea1_tervik']
+('ei', 'jah', 'jah', 'jah', 'jah')	['depo_ktea1_tervik', 'pmk_ktea1_tervik']
+('jah', 'jah', 'jah', 'ei', 'ei')	['ebh_ktea1_tervik', 'gem_ktea1_tervik', 'mith_ktea1_tervik', 'pegasus_ktea1_tervik', 'soulz_ktea1_tervik']
+('ei', 'jah', 'jah', 'jah', 'ei')	['ebs_ktea1_tervik', 'hestia_ktea1_tervik', 'km_ktea3_tervik']
+('ei', 'ei', 'jah', 'jah', 'jah')	['ej_ktea1_tervik', 'expa_ktea1_tervik', 'fc_ktea1_tervik', 'matk_ktea1_tervik', 'mem_ktea1_tervik', 'tradeh_ktea1_tervik', 'wknd_ktea1_tervik']
+('ei', 'ei', 'ei', 'jah', 'ei')	['epp_tervik_ktea1', 'fertilitas_tervik_ktea_2', 'now_tervik_ktea1', 'seto_tervik_ktea1']
+('ei', 'jah', 'jah', 'ei', 'jah')	['var_ktea1_tervik']
+
+AVALIK SEKTOR
+
+Kokku on avaliku sektori tekste 56
+
+Erinevaid avaliku sektori küpisiseteate malle on 11
+Siin on kõik erinevad avaliku sektori küpsiseteadete mallid koos nendesse mallidesse kuuluvad teadete arvuga
+('ei', 'ei', 'ei', 'ei', 'ei')	1	1.8 %
+('ei', 'ei', 'jah', 'ei', 'ei')	9	16.1 %
+('ei', 'ei', 'jah', 'ei', 'jah')	3	5.4 %
+('ei', 'ei', 'jah', 'jah', 'ei')	15	26.8 %
+('ei', 'ei', 'jah', 'jah', 'jah')	4	7.1 %
+('ei', 'jah', 'jah', 'ei', 'jah')	3	5.4 %
+('jah', 'ei', 'jah', 'ei', 'ei')	11	19.6 %
+('jah', 'ei', 'jah', 'jah', 'ei')	7	12.5 %
+('jah', 'jah', 'jah', 'ei', 'ei')	1	1.8 %
+('jah', 'jah', 'jah', 'ei', 'jah')	1	1.8 %
+('jah', 'jah', 'jah', 'jah', 'jah')	1	1.8 %
+
+Siin on kõik erinevad avaliku sektori küpsiseteadete mallid koos pisiteksti id-ga
+('ei', 'ei', 'ei', 'ei', 'ei')	['ahhaa_booking_tervik_ktea1']
+('jah', 'ei', 'jah', 'ei', 'ei')	['ahhaa_ktea1_tervik', 'eramets_ktea1_tervik', 'estdev_ktea1_tervik', 'hiiu_ktea1_tervik', 'kemit_ktea1_tervik', 'lk_ktea1_tervik', 'loodus_ktea1_tervik', 'minhär_ktea1_tervik', 'puhka_ktea1_tervik', 'tlu_ktea1_tervik', 'vtrt_ktea1_tervik']
+('ei', 'ei', 'jah', 'ei', 'ei')	['almpood_ktea1_tervik', 'ars_ktea1_tervik', 'draamateater_ktea1_tervik', 'kuram_ktea1_tervik', 'kutsekoda_ktea1_tervik', 'polvhai_ktea1_tervik', 'proto_ktea3_tervik', 'tootuk_ktea1_tervik', 'vmm_ktea1_tervik']
+('ei', 'ei', 'jah', 'jah', 'ei')	['eam_ktea1_tervik', 'eans_ktea2_tervik', 'edu_ktea1_tervik', 'eepank_ktea1_tervik', 'emta_ktea1_tervik', 'etag_ktea1_tervik', 'etdm_ktea1_tervik', 'etm_ktea1_tervik', 'evm_ktea1_tervik', 'fi_ktea1_tervik', 'muus_ktea1_tervik', 'parhai_ktea1_tervik', 'proto_ktea1_tervik', 'zoo_ktea1_tervik', 'tateko_ktea1_tervik']
+('ei', 'ei', 'jah', 'jah', 'jah')	['eans_ktea1_tervik', 'lashai_ktea1_tervik', 'proto_ktea2_tervik', 'tthk_ktea1_tervik']
+('jah', 'ei', 'jah', 'jah', 'ei')	['eestiloto_ktea1_tervik', 'elhai_ktea1_tervik', 'endla_ktea1_tervik', 'kumu_ktea1_tervik', 'maaelumuuseumid_ktea1_tervik', 'tktk_ktea1_tervik', 'vabamu_ktea1_tervik']
+('ei', 'jah', 'jah', 'ei', 'jah')	['elron_ktea1_tervik', 'emm_ktea1_tervik', 'emm_ktea2_tervik']
+('ei', 'ei', 'jah', 'ei', 'jah')	['enef_ktea1_tervik', 'jõhvigüm_ktea1_tervik', 'taltech_ktea1_tervik']
+('jah', 'jah', 'jah', 'ei', 'ei')	['itk_ktea1_tervik']
+('jah', 'jah', 'jah', 'jah', 'jah')	['vene_ktea1_tervik']
+('jah', 'jah', 'jah', 'ei', 'jah')	['vtll_ktea1_tervik']
+
+Mõlema sektori peale on kokku teateid, kus asub vähemalt üks:
+Pealkiri: 143	 millest erasektoris 122	avalikus sektoris 21
+Lüliti või märkeruut: 41	 millest erasektoris 35	avalikus sektoris 6
+Nupp: 268	 millest erasektoris 213	avalikus sektoris 55
+Link: 146	 millest erasektoris 119	avalikus sektoris 27
+Nupu ja lingi vahepealne asi: 85	 millest erasektoris 73	avalikus sektoris 12
